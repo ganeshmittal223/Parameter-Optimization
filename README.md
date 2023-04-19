@@ -7,18 +7,17 @@ The "Room Occupancy Estimation Data Set" available on the UCI Machine Learning R
 
 ## Result
 ### Table
-| Sample  | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
-| -----   | ------------- | ----------- | ------- | ------------ |
-| 1 | 0.88 | Poly | 5.82 | 4.35 |
-| 2 | 0.95 | Linear | 5.13 | 0.30 |
-| 3 | 0.96 | Linear | 3.13 | 6.32 |
-| 4 | 0.96 | Poly | 1.49 | 3.26 |
-| 5 | 0.91 | Linear | 3.52 | 7.34 |
-| 6 | 0.83 | RBF | 5.60 | 3.14 |
-| 7 | 0.95 | Poly | 0.29 | 7.71 |
-| 8 | 0.95 | Poly | 4.87 | 5.57 |
-| 9 | 0.97 | Poly | 1.27 | 6.87 |
-| 10 | 0.92 | Poly | 0.34 | 5.50 |
+Sample	Best Accuracy	Best Kernel	Best Nu	Best Epsilon
+0	1	0.88	poly	2.64	9.95
+1	2	0.95	linear	7.00	1.38
+2	3	0.96	linear	9.11	9.44
+3	4	0.94	poly	8.19	4.22
+4	5	0.93	linear	1.69	9.72
+5	6	0.84	poly	7.53	1.88
+6	7	0.91	poly	4.38	7.09
+7	8	0.96	poly	4.25	3.44
+8	9	0.93	poly	3.99	4.74
+9	10	0.95	poly	9.14	3.99
 
 ### Graph
 
