@@ -20,7 +20,7 @@ The "Room Occupancy Estimation Data Set" available on the UCI Machine Learning R
 | 9 | 0.97 | Poly | 1.27 | 6.87 |
 | 10 | 0.92 | Poly | 0.34 | 5.50 |
 
-###Graph
+### Graph
 
 ![image](https://user-images.githubusercontent.com/78275410/233170607-95eceec9-d0b2-453a-bd78-c21767426477.png)
 
